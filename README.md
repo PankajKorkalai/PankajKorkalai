@@ -1,6 +1,6 @@
 ![logo](https://github.com/PankajKorkalai/PankajKorkalai/blob/main/WhatsApp%20Image%202024-01-15%20at%2002.34.49_fc09fd5b.jpg)
 # 💫 About Me:
-🔭 I’m currently Doing Computer Science <br>👯 I’m looking for collaboration to Build Something Special<br>🤝 I’m looking for Teammeat<br>🌱 I’m currently learning Full Stack Web Developement<br>💬 Ask me about anything<br>⚡ Fun fact : I am beginner
+🔭 I’m currently Doing Computer Science <br>👯 I’m looking for collaboration to Build Something Special<br>🤝 I’m looking for Teammates <br>🌱 I’m currently learning Full Stack Web Developement<br>💬 Ask me about anything<br>⚡ Fun fact : I am beginner
 
 
 ## 🌐 Socials:
