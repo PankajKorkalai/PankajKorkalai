@@ -1,6 +1,16 @@
 ![logo](https://github.com/PankajKorkalai/PankajKorkalai/blob/main/WhatsApp%20Image%202024-01-15%20at%2002.34.49_fc09fd5b.jpg)
 # 💫 About Me:
-🔭 I’m currently Doing Computer Science <br>👯 I’m looking for collaboration to Build Something Special<br>🤝 I’m looking for Teammates <br>🌱 I’m currently learning Full Stack Web Developement<br>💬 Ask me about anything<br>⚡ Fun fact : I am beginner
+I am currently pursuing a Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a specialization in Data Science at RCOEM, Nagpur.
+
+🚀 **My Skillset:**
+- 💻 Proficient in Java, HTML5, CSS, and JavaScript
+- 🅱 Experienced in Bootstrap and React.js
+- 🤖 Enthusiastic in Generative AI and Artificial Intelligent 
+- 🧠 Familiar with Data Structures and Algorithms (DSA)
+- 🎨 Skilled in Figma for UI/UX design
+- ☁ Proficient in Cloud Computing, especially Linux environments
+- 💼 Experienced with GitHub & Git for version control
+- 📱 Knowledgeable in Social Media Marketing (SMM)
 
 
 ## 🌐 Socials:
