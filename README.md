@@ -1,6 +1,6 @@
 ![logo](https://github.com/PankajKorkalai/PankajKorkalai/blob/main/git%20hub%20banner.gif)
 # 💫 About Me:
-I am currently pursuing a Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a specialization in Data Science at RCOEM, Nagpur.
+## Hii Devs !! I am currently pursuing a BTech in Computer Science and Engineering with a specialization in Data Science at RCOEM, Nagpur.
 
 🚀 **My Skillset:**
 - 💻 Proficient in Java, HTML5, CSS, and JavaScript
