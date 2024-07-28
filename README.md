@@ -1,4 +1,4 @@
-![logo](https://github.com/PankajKorkalai/PankajKorkalai/blob/main/github-header-image.png)
+![logo](https://github.com/PankajKorkalai/PankajKorkalai/blob/main/git%20hub%20banner.gif)
 # 💫 About Me:
 I am currently pursuing a Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a specialization in Data Science at RCOEM, Nagpur.
 
